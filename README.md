@@ -1,7 +1,7 @@
 # Bank_8thProject
 This project is my project in sprint 8, which is Supervised learning.
 
-In this srpint i learn how to adjust machine learning models, develop metrics, and work with imbalanced data..
+In this srpint i learn how to adjust machine learning models, develop metrics, and work with imbalanced data.
 
 # Project Overview
 
